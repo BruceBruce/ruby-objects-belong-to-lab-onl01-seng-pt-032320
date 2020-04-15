@@ -7,4 +7,4 @@ class Artist
   end
 end
 
-Artist.new("")
+Artist.new("Beyonce")

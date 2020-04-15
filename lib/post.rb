@@ -6,6 +6,6 @@ class Post
   end 
   
   def title
-    @title = ("")
+    @title = ("Hello World")
   end
 end

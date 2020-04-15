@@ -7,3 +7,4 @@ class Artist
   end
 end
 
+Beyonce

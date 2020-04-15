@@ -7,4 +7,5 @@ class Post
   
   def title("Hello World")
     @title
+  end
 end
